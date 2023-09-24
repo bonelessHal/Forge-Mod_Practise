@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "Y#Y",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:rubber_glove"
+    },
+    "X": {
+      "item": "tutorialmod:pringles"
+    },
+    "Y": {
+      "item": "minecraft:sponge"
+    }
+  },
+
+  "result": {
+    "item": "tutorialmod:squelch"
+  }
+}
